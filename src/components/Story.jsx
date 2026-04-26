@@ -1,5 +1,6 @@
 import React, { useRef } from "react";
 import AnimatedTitle from "./AnimatedTitle";
+import gsap from "gsap";
 
 function Story() {
   const frameRef = useRef(null);
