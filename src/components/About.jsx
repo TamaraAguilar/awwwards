@@ -16,6 +16,7 @@ function About() {
         scrub: 0.5,
         pin: true,
         pinSpacing: true,
+        invalidateOnRefresh: true,
       },
     });
 
